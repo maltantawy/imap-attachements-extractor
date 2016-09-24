@@ -1,4 +1,4 @@
-#!/usr/bin/python -tt
+#!/usr/bin/env python -tt
 """
 Author: Mostafa Altantawy 
 Email: Mostafa.Altantawy@Gmail.com
