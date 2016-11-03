@@ -15,9 +15,7 @@ password = <PASSWORD>
 
 `Where to save the attachments / URLS` 
 [path]
-"""Where to store the files (Attachments)"""
 files_path = <FILES_PATH>
-"""Where to store the fetched urls"""
 urls_path = <URLS_PATH>
 
  
