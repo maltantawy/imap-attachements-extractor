@@ -3,7 +3,7 @@ Python script to extract the messages's attachments from imap server. The script
 
 
 ```````
-Configuration 
+Configuration
 ```````
 
 The configuration file has the following structure:
@@ -13,7 +13,8 @@ server_hostname = <MAIL SERVER HOSTNAME>
 user_name = <USERNAME>
 password = <PASSWORD>
 
-`Where to save the attachments / URLS` 
+//Where to save the attachments / URLS 
+
 [path]
 files_path = <FILES_PATH>
 urls_path = <URLS_PATH>
