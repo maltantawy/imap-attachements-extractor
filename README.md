@@ -8,16 +8,15 @@ Configuration
 
 The configuration file has the following structure:
 
-[server_config]
-server_hostname = <MAIL SERVER HOSTNAME>
-user_name = <USERNAME>
-password = <PASSWORD>
+[server_config]  
+server_hostname = <MAIL SERVER HOSTNAME>  
+user_name = <USERNAME>  
+password = <PASSWORD>  
 
 //Where to save the attachments / URLS 
 
-[path]
-files_path = <FILES_PATH>
-
-urls_path = <URLS_PATH>
+[path]  
+files_path = <FILES_PATH>  
+urls_path = <URLS_PATH>  
 
  
